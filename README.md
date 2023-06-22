@@ -44,18 +44,19 @@ cd slam-algorithms
 ```
 
 - Run the desired SLAM algorithm:
-
-	- For FastSLAM:
-
-```bash
-python FastSLAM.py
-```
-
-	- For GraphSLAM:
-```bash
-python GraphSLAM.py
-```
-
+  
+  - For FastSLAM:
+    
+    ```bash
+    python FastSLAM.py
+    ```
+    
+  - For GraphSLAM:
+    
+    ```bash
+    python GraphSLAM.py
+    ```
+    
 ## Examples
 
 The repository includes examples of how to use the FastSLAM and GraphSLAM algorithms with synthetic data. The examples demonstrate the estimation of the robot's pose and the map of the environment based on motion inputs and sensor observations.
